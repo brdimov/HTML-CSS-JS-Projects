@@ -2,4 +2,4 @@
 ## Mobile Friendly
 
 # 02 Modern Tutor Website
-##
+## ## Mobile Friendly
