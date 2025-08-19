@@ -152,7 +152,7 @@ img {
 /* Header Section  */
 .header {
   position: relative;
-  background-image: url("/images/header-background.jpg");
+  background-image: url("./images/header-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -471,7 +471,7 @@ img {
 /* Course Details Section  */
 .details {
   width: 100%;
-  background-image: url("/images/author-background.jpg");
+  background-image: url("./images/author-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -569,7 +569,7 @@ img {
 /* Stats Section  */
 .stats {
   max-width: 100%;
-  background-image: url("/images/stats-background.jpg");
+  background-image: url("./images/stats-background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
